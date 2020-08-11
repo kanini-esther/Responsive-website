@@ -1,0 +1,59 @@
+body{
+	background-color: #ccc;
+	color: #222;
+	font-family: arial;
+}
+
+.cont{
+	max-width: 1000px;
+    min-height: 200px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.cont h2{
+
+}
+
+.one{
+	background-color: green;
+	min-height: 100px;
+	padding: 20px;
+}
+
+.two{
+	background-color: blue;
+	min-height: 200px;
+}
+.two h2{
+	font-size: 5vw;
+	margin: 0;
+	padding: 0;
+}
+
+.three{
+	background-color: pink;
+	min-height: 200px;
+}
+
+.four{
+	background-color: orange;
+	min-height: 200px;
+}
+
+.five{
+	background-color: black;
+	min-height: 200px;
+}
+
+.six{
+	background-color: gray;
+	min-height: 200px;
+}
+.seven{
+	background-color: red;
+	min-height: 200px;
+}
+.eight{
+	background-color: purple;
+	min-height: 200px;
+}
